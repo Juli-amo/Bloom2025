@@ -16,7 +16,6 @@ Every action has a consequence, and the player must ultimately decide between **
 ---
 
 ### 🗂️ Project Structure
-## Projekt-Struktur
 ```
 📁 <Repo-Root>
 │
@@ -55,7 +54,7 @@ Every action has a consequence, and the player must ultimately decide between **
 │   │
 │   ├── 📁 Shaders           # If we have time
 │   ├── 📁 Animation         # Anim Controller, Clips
-│   └── 📁 ThirdParty        # ThirdParty-Assets (mit Lizenz-Readme)
+│   └── 📁 ThirdParty        # ThirdParty-Assets (with Lizenz-Readme)
 │
 ├── 📁 Tests
 │   ├── 📁 EditMode
