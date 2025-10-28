@@ -16,6 +16,8 @@ Every action has a consequence, and the player must ultimately decide between **
 ---
 
 ### 🗂️ Project Structure
+## Projekt-Struktur
+```
 📁 <Repo-Root>
 │
 ├── 📁 Assets
@@ -53,11 +55,11 @@ Every action has a consequence, and the player must ultimately decide between **
 │   │
 │   ├── 📁 Shaders           # If we have time
 │   ├── 📁 Animation         # Anim Controller, Clips
-│   ├── 📁 ThirdParty        # ThirdParty-Assets (with Lizenz-Readme)
-│   │
-│   └── 📁 Tests
-│       ├── 📁 EditMode
-│       └── 📁 PlayMode
+│   └── 📁 ThirdParty        # ThirdParty-Assets (mit Lizenz-Readme)
+│
+├── 📁 Tests
+│   ├── 📁 EditMode
+│   └── 📁 PlayMode
 │
 ├── 📁 ProjectSettings       # Unity-Projectsetting
 ├── 📁 Packages              # Dependencies
@@ -66,6 +68,4 @@ Every action has a consequence, and the player must ultimately decide between **
     ├── 📝 Brief.md
     ├── 📝 Architecture.md
     └── 📝 ArtGuidelines.md
-
-
-
+```
