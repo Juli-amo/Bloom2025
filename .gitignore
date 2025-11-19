@@ -1,0 +1,20 @@
+# --- Unity project lives in subfolder 'Bloom2025/' ---
+Bloom2025/Library/
+Bloom2025/Temp/
+Bloom2025/Obj/
+Bloom2025/Build/
+Bloom2025/Builds/
+Bloom2025/UserSettings/
+Bloom2025/Logs/
+Bloom2025/MemoryCaptures/
+Bloom2025/Recordings/
+
+# IDE/Editor
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+
+# OS
+.DS_Store
